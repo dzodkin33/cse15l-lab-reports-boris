@@ -11,8 +11,8 @@ Urna nec tincidunt praesent semper feugiat nibh. Mattis nunc sed blandit libero 
 * Is 
 * `Sus`
 
-** ^^^^[Link](https://dzodkin33.github.io/cse15l-lab-reports-boris/lab-1.md)^^^^**
-
+** ^^^^[Link1](https://dzodkin33.github.io/cse15l-lab-reports-boris/lab-1.md)^^^^**
+** [Link2](lab-1.md)**
 ```
 Pam
 ```
