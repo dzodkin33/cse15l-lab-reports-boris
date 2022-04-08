@@ -1,18 +1,13 @@
 # Main Page
 
-## Heading 2
-*Lorem* ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Sit amet est placerat in egestas erat **imperdiet.** Nisl nunc mi ipsum faucibus vitae.
-Urna nec tincidunt praesent semper feugiat nibh. Mattis nunc sed blandit libero volutpat sed cras ornare arcu.
+Hey! I'm Boris, majoring in Math-Cs at UCSD. This is my personal blog for CSE 15L. The website will be used to post lab reports for this class.
+
 ---
-![Image](https://i.imgur.com/sm4Id90.png)
 
-* Red 
-* Is 
-* `Sus`
+## Labs 1 and 2
 
-** ^^^^[Link1](https://dzodkin33.github.io/cse15l-lab-reports-boris/lab-1.md)^^^^**
-** [Link2](lab-1.md)**
-```
-Pam
-```
+During these two labs, we learned how to remotely access computers using ssh as well as the basics of git.
+
+[Here are the Lab reports](lab-1.md)
+
+---
