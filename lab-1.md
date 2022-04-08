@@ -25,11 +25,11 @@ VSCode is a great coding editor with many great features as well as an intuitive
 
 [Link to VSCode website.](https://code.visualstudio.com/)
 
-![Image](./pictures/lab-1-vscode.png)
+![Image](./pictures/Lab-1-pics/lab-1-vscode.png)
 
 After downloading and opening the editor, you should be seeing something like this.
 
-![Image](./pictures/lab-1-vscode-landing.png)
+![Image](./pictures/Lab-1-pics/lab-1-vscode-landing.png)
 
 ### Remotely Connecting to Computers Using SSH
 
@@ -48,7 +48,7 @@ Where `<name>` is your account's username.
 
 The SSH will ask you for your password. After putting in your password, you will see something like this.
 
-![Image](./pictures/remote-access.png)
+![Image](./pictures/Lab-1-pics/remote-access.png)
 
 Now that you accessed your remote machine, we can learn cool terminal commands.
 
@@ -71,7 +71,7 @@ Let's try out some of these commands. For example, typing
 
 Prints out the list of all of the files in the root directory.
 
-![Image](/pictures/ls-lat.png)
+![Image](/pictures/Lab-1-pics/ls-lat.png)
 
 If we type in
 
@@ -79,7 +79,7 @@ If we type in
 
 We will se the information on what this file does.
 
-![Image](./pictures/cat-profile.png)
+![Image](./pictures/Lab-1-pics/cat-profile.png)
 
 Try playing around with line commands yourself.
 
@@ -106,7 +106,7 @@ This code essentially shows info about the system the code is executed on. Try r
 
 You will get somethig like this.
 
-![Image](/pictures/test-run.png)
+![Image](/pictures/Lab-1-pics/test-run.png)
 
 Now, to move this file to the root directory of your remote machine, type this into the terminal:
 `scp Test.java <name>@ieng6.ucsd.edu:~/`
@@ -114,11 +114,11 @@ Where  `name` is your remote connection login.
 
 After writing your password, you will see a confirmation that the file was copied.
 
-![Image](/pictures/scp-conf.png)
+![Image](/pictures/Lab-1-pics/scp-conf.png)
 
 Now connect to your remote machine and try exhecuting the java code. You will see the information of the remote machine.
 
-![Image](/pictures/scp-remote-exhecution.png)
+![Image](/pictures/Lab-1-pics/scp-remote-exhecution.png)
 
 ### Setting an SSH Key
 
@@ -135,7 +135,7 @@ Where `<user-name>` is a name of your system.
 
 You will get the following
 
-![Images](/pictures/keygen-terminal.png)
+![Images](/pictures/Lab-1-pics/keygen-terminal.png)
 
 Now, login into your remote machine and create a .ssh directory.
 
