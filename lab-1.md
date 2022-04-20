@@ -155,3 +155,5 @@ We got rid of an extra step from a process, however, we can further simplify it.
 Thus, applying all we know about bash commands, we will get the following line.
 
 `scp Test.java <name>@ieng6.ucsd.edu:~/; scp <name>@ieng6.ucsd.edu "javac Test.java; java Test"`
+
+![Image](pictures/Lab-1-pics/quick-access.png)
