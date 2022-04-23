@@ -8,6 +8,12 @@ Hey! I'm Boris, majoring in Math-Cs at UCSD. This is my personal blog for CSE 15
 
 During these two labs, we learned how to remotely access computers using ssh as well as the basics of git.
 
-[Here are the Lab reports](lab-1.md)
+[Here is the Lab report](lab-1.md)
 
 ---
+
+## Lab 2
+
+During these weeks 3 and 4 we learned the basics of testing for Java and incremental development.
+
+[Here is the lab report](lab-2.md)

@@ -1,4 +1,4 @@
-# Labs 1 and 2
+# Lab report 1
 
 [Back to main page](index.md)
 
