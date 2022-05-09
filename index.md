@@ -17,3 +17,11 @@ During these two labs, we learned how to remotely access computers using ssh as 
 During these weeks 3 and 4 we learned the basics of testing for Java and incremental development.
 
 [Here is the lab report](lab-2.md)
+
+---
+
+## Lab 3
+
+During weeks 5 and 6, we learned how to better our experience when working with remote machines.
+
+[Here is the lab report](lab-3.md)
