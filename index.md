@@ -28,7 +28,7 @@ During weeks 5 and 6, we learned how to better our experience when working with 
 
 ---
 
-## Lab 4
+## Lab 5
 
 In this lab report, we use `vimdiff` for debugging the markdown parser.
 
