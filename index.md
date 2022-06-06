@@ -25,3 +25,11 @@ During these weeks 3 and 4 we learned the basics of testing for Java and increme
 During weeks 5 and 6, we learned how to better our experience when working with remote machines.
 
 [Here is the lab report](lab-3.md)
+
+---
+
+## Lab 4
+
+In this lab report, we use `vimdiff` for debugging the markdown parser.
+
+[Lab Report is here](lab-5.md)

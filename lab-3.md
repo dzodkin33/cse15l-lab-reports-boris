@@ -1,4 +1,4 @@
-# Lab Report 3 
+# Lab Report 3
 
 [Back to main page](index.md)
 
